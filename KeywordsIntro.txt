@@ -6,3 +6,5 @@ How to create a repository?
 Steps :- 
 Create your github account -> Open repositories and then click New Button in top right corner -> Then you'll be redirected to a page asking for Name and description of your Repo and fill the same
 This way your repository is created.
+
+#Note : Commit is retracable and we can revert the changes using the hash code given for a particular commit.
