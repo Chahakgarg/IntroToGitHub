@@ -8,3 +8,4 @@ Create your github account -> Open repositories and then click New Button in top
 This way your repository is created.
 
 #Note : Commit is retracable and we can revert the changes using the hash code given for a particular commit.
+When we create a file in github and enter some data first time while creating it, then that is known as initial commit.
