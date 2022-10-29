@@ -10,3 +10,13 @@ This way your repository is created.
 #Note : Commit is retracable and we can revert the changes using the hash code given for a particular commit.
 #Note : When we create a file in github and enter some data first time while creating it, then that is known as initial commit.
 #Note : Afterwards all other changes are referred as Commits #num (num = 1,2,3,...)
+
+
+Now what is Branch?
+Branch is basically a way for social coding.
+When the changes are made by the reporsitory owner so, he/she does it in main branch itself and if they want to divide the main branch separately then we create new branch.
+For example : I made a list of ares in my house -
+Drawing Room -> Kitchen -> Bathroom -> Bedroom -> Living Room -> Dining Room
+Now my friend wants to make the list of areas of her house as well and she has same rooms + some add on areas which she want to mention so, she can simply make a new branch and commit in it -
+Drawing Room -> Kitchen -> Bathroom -> Bedroom -> Living Room -> Dining Room -> Corridor -> Play Room -> Balcony -> Garden Area
+So, that's how Branching works.
