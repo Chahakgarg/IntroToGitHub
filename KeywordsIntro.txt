@@ -20,3 +20,9 @@ Drawing Room -> Kitchen -> Bathroom -> Bedroom -> Living Room -> Dining Room
 Now my friend wants to make the list of areas of her house as well and she has same rooms + some add on areas which she want to mention so, she can simply make a new branch and commit in it -
 Drawing Room -> Kitchen -> Bathroom -> Bedroom -> Living Room -> Dining Room -> Corridor -> Play Room -> Balcony -> Garden Area
 So, that's how Branching works.
+
+
+
+Pull Request - When new branch is created and final changes are done in that and after that you want to all the changes in final main commit then we review all the branches and create pull request which actually means to add all the branches in final main branch list.
+
+Pull Request basically connects every contributor's work in final list and this is only allowed and accepted by the contributor.
